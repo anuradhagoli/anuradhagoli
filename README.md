@@ -24,14 +24,12 @@ Here are some ideas to get you started:
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuradhagoli" alt="anuradhagoli" /></a> </p>
  - 🌱 I’m currently learning **AWS and DevOps tools**-->
 
-<h3 align="left">Connect with me:</h3>
-
 ## Connect with me:
 <div align="center">
-    <a href="https://www.linkedin.com/in/anuradhagoli/" target="_blank"><img src="https://img.shields.io/badge/Anuradha-Goli?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a target="_blank" href="mailto:anuradha.yeluri@gmail.com"><img src="https://img.shields.io/badge/anuradha.yeluri%40gmail.com-GMAIL?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="https://leetcode.com/u/anuradhagoli/" target="_blank"><img src="https://img.shields.io/badge/anuradhagoli-LEET?style=flat&logo=LeetCode&logoColor=white"/></a>
-        <a href="https://medium.com/@anuradhagoli" target="_blank"><img src="https://img.shields.io/badge/anuradhagoli-MEDIUM?style=flat&logo=Medium&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/anuradhagoli/" target="_blank"><img src="https://img.shields.io/badge/Anuradha Goli-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:anuradha.yeluri@gmail.com"><img src="https://img.shields.io/badge/anuradha.yeluri%40gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://leetcode.com/u/anuradhagoli/" target="_blank"><img src="https://img.shields.io/badge/anuradhagoli-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+        <a href="https://medium.com/@anuradhagoli" target="_blank"><img src="https://img.shields.io/badge/anuradhagoli-3B5948?style=flat&logo=Medium&logoColor=white"/></a>
 </div>
 
 
