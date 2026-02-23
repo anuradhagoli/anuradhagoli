@@ -102,7 +102,7 @@ Here are some ideas to get you started:
   <img   align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anuradhagoli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 </a>
  <a href="https://github.com/anuradhagoli">
-  <img  align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anuradhagoli&langs_count=8&&layout=compact&theme=algolia" />
+  <img  align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anuradhagoli&langs_count=8&&layout=compact&theme=algolia&hide=toml" />
 </a>
 </p>
 
