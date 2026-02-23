@@ -100,8 +100,13 @@ Here are some ideas to get you started:
 ![Docusaurus](https://img.shields.io/badge/Docusaurus-%233ECC5F.svg?style=flat&logo=docusaurus&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
 
-## All Repositories:
+## Repositories:
 <a href="https://github.com/anuradhagoli?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=anuradhagoli&repo=anuradhagoli)](https://github.com/anuradhagoli/anuradhagoli)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=anuradhagoli&repo=microservices)](https://github.com/anuradhagoli/microservices)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=anuradhagoli&repo=react-native-proj)](https://github.com/anuradhagoli/react-native-proj)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=anuradhagoli&repo=csharp-collections)](https://github.com/anuradhagoli/csharp-collections)
 
 ## Github Stats:
 <p align="center">
