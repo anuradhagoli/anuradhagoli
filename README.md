@@ -36,11 +36,6 @@ Here are some ideas to get you started:
         <a href="https://medium.com/@anuradhagoli" target="_blank"><img src="https://img.shields.io/badge/anuradhagoli-3B5948?style=flat&logo=Medium&logoColor=white"/></a>
 </div>
 
-
-
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <!--<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  -->
 
@@ -102,21 +97,21 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuradhagoli?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 ## Github Stats:
-![Anuradha's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=anuradhagoli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anuradhagoli&langs_count=8&&layout=compact&theme=algolia)
- <!--<p align="center">
+<p align="center">
+ <a href="https://github.com/anuradhagoli">
+  <img   align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anuradhagoli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+</a>
+ <a href="https://github.com/anuradhagoli">
+  <img  align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anuradhagoli&langs_count=8&&layout=compact&theme=algolia" />
+</a>
+</p>
 
-   <a href="https://github.com/anuradhagoli">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anuradhagoli&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
-</p>-->
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/anuradhagoli">
     <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=anuradhagoli&bg_color=050e2b&color=2cde97&line=00aeff&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=2cde97&border_radius=20px"/>
   </a> 
 </p>
-
 
  <p align="center">
    <a href="https://github.com/anuradhagoli"> 
