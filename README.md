@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="center">Passionate developer</h3>
+<h1 style="text-align: center;">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Anuradha+Goli" alt="Anuradha Goli" />
+  </a>
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuradhagoli&label=Profile%20views&color=0e75b6&style=flat" alt="anuradhagoli" /> </p>
 
