@@ -105,6 +105,8 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=anuradhagoli&repo=anuradhagoli)](https://github.com/anuradhagoli/anuradhagoli) 
 [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=anuradhagoli&repo=microservices)](https://github.com/anuradhagoli/microservices)  
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=anuradhagoli&repo=devopsscripts)](https://github.com/anuradhagoli/devopsscripts) 
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=anuradhagoli&repo=java-project-maven)](https://github.com/anuradhagoli/java-project-maven)  
 [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=anuradhagoli&repo=react-native-proj)](https://github.com/anuradhagoli/react-native-proj) 
 [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=anuradhagoli&repo=csharp-collections)](https://github.com/anuradhagoli/csharp-collections) 
 
