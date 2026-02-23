@@ -102,11 +102,14 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuradhagoli?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 ## Github Stats:
-<p align="center">
-    <a href="https://github.com/anuradhagoli">
+![Anuradha's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=anuradhagoli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anuradhagoli&langs_count=8&&layout=compact&theme=algolia)
+ <!--<p align="center">
+
+   <a href="https://github.com/anuradhagoli">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anuradhagoli&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
-</p>
+</p>-->
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/anuradhagoli">
@@ -117,7 +120,7 @@ Here are some ideas to get you started:
 
  <p align="center">
    <a href="https://github.com/anuradhagoli"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuradhagoli&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuradhagoli&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true" /> 
    </a>  
  </p>
 
