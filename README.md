@@ -98,7 +98,8 @@ Here are some ideas to get you started:
 ![Docusaurus](https://img.shields.io/badge/Docusaurus-%233ECC5F.svg?style=flat&logo=docusaurus&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
 
-
+## All Repositories:
+<a href="https://github.com/anuradhagoli?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 ## Github Stats:
 <p align="center">
