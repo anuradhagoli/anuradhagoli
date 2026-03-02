@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 </div>-->
 
 <p align="center">
-  &nbsp; <a href="https://www.linkedin.com/in/anuradhagoli/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:anuradha.yeluri@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a> 
-&nbsp; <a href="https://twitter.com/anuradhagoli" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/in/anooslettering/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+  &nbsp; <a href="https://www.linkedin.com/in/anuradhagoli/" target="_blank" ><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:anuradha.yeluri@gmail.com" target="_blank" ><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a> 
+&nbsp; <a href="https://twitter.com/anuradhagoli" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/anooslettering/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
